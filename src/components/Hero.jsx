@@ -14,11 +14,11 @@ export default function Hero() {
         </div>
         <div className="hero-badges" aria-hidden>
           {/* Ex.: logos em /public/assets/git.svg etc */}
-          <img src="/assets/git.svg" alt="Git" />
-          <img src="/assets/javascript.svg" alt="JavaScript" />
-          <img src="/assets/html.svg" alt="HTML5" />
-          <img src="/assets/css.svg" alt="CSS3" />
-          <img src="/assets/nodejs.svg" alt="Node.js" />
+          <img src=".public/assets/vite.svg/git.svg" alt="Git" />
+          <img src="/assets/vite.svg/javascript.svg" alt="JavaScript" />
+          <img src="/assets/vite.svg/html.svg" alt="HTML5" />
+          <img src="/assets/vite.svg/css.svg" alt="CSS3" />
+          <img src="/assets/vite.svg/nodejs.svg" alt="Node.js" />
         </div>
       </div>
     </section>
